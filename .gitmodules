@@ -1,4 +1,4 @@
 
-[submodule "submodule-folder"]
-	path = submodule-folder
+[submodule "submodule"]
+	path = submodule
 	url = https://github.com/tjsweetblack/portfolio_website.git
